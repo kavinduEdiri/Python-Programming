@@ -1,0 +1,5 @@
+ A Juwelary manufacturing firm uses the following method to calcculate
+the price of jewelry for sale.25% of the value of a pound is charged asa labor 
+fee for each pound based on the weight of the jewelry.
+The code to calulate and output the total amount of  gold, the value of the worker rent ,
+when the curent value of the pound of units and weight is input.
